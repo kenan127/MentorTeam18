@@ -9,8 +9,4 @@ public class Atm {
         Para çekme ve para gonderme işleminde mevcut bakiyeden buyuk para çekilemez,
         Para gönderme işleminde istenen iban TR ile baslamali ve toplam 26 karakterli olmali, eger değilse menü ekranina geri donsun.
         Sifre değiştirme işleminde mevcut şifreyi teyit ettikten sonra, sifre değişiklik işlemini yapmali,       */
-     //1111222233334444
-    //ab1cd2
-    //TR123412341234123412341234
-
 }
